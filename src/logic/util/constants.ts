@@ -1,0 +1,1 @@
+export const mediaUrl = "http://104.248.33.22/pub/media/catalog/product"

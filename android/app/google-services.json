@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "589109811308",
+    "project_id": "audioclass",
+    "storage_bucket": "audioclass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589109811308:android:03566d8131dac991052049",
+        "android_client_info": {
+          "package_name": "com.audioclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589109811308-muioia19eis3pv3l83fo5u5hje142e0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.audioclass",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "589109811308-olk36b2hah7eghq8mpc7ogpv4ehvlqdi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.audioclass",
+            "certificate_hash": "20f11e98e3093e191c7a8919c3bc5628d430f07c"
+          }
+        },
+        {
+          "client_id": "589109811308-8vr0c8s789j42vj3kvrkar9uona522b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmZAnenzoMC5LHcs3rYXugVJwPaTytYsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589109811308-3kgukugjmmqjdql055h3iorhkdptjm1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
